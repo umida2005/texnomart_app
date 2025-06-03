@@ -1,37 +1,35 @@
-# 🛍️ texnomart_app
+# 🛒 texnomart_app (Clone Version)
 
-**texnomart_app** is a modern e-commerce mobile application built with Flutter, allowing users to browse and purchase tech products, view store locations on Google Maps, and manage their shopping experience seamlessly.
+**texnomart_app** is an educational **clone** of the Texnomart mobile app built with Flutter.  
+This project was created for learning and portfolio purposes only, and is not affiliated with or endorsed by the official Texnomart company.
 
 ---
 
 ## 🚀 Technologies Used
 
-This project utilizes the following technologies and libraries:
-
 | Technology | Purpose |
 |------------|---------|
 | **Flutter & Dart** | Cross-platform mobile development |
-| **Dio** | Advanced HTTP client for making API requests |
-| **Retrofit** | Type-safe HTTP client built on top of Dio |
-| **BLoC** | State management using the BLoC (Business Logic Component) pattern |
-| **Hive** | Lightweight and fast local NoSQL database |
-| **Freezed** | Code generation for immutable data classes |
-| **GetIt** | Dependency injection using service locator pattern |
-| **Google Maps** | Map integration for store locations and user navigation |
+| **Dio** | HTTP client for making API requests |
+| **Retrofit** | Type-safe networking built on top of Dio |
+| **BLoC** | Business Logic Component for state management |
+| **Hive** | Lightweight local database for caching data |
+| **Freezed** | Code generation for immutable models and unions |
+| **GetIt** | Service locator for dependency injection |
+| **Google Maps** | Displaying store locations on a map |
 
 ---
 
 ## 📱 Features
 
-- 🏠 Home screen with product listings
-- 📦 Product details page
-- 📍 Store locator using Google Maps
-- ❤️ Wishlist and favorites
-- ⚙️ Settings and profile options
+- 🛒 Product listing and detail views  
+- 🔐 Authentication flow with PIN support  
+- 📍 Store location with Google Map integration  
+- ❤️ Favorite (wishlist) management  
+- ⚙️ Profile and settings screen  
+- 📦 Cart and order overview (demo)  
 
 ---
 
 ## 🧱 Project Structure
-
-The app follows **Clean Architecture** principles combined with the **BLoC pattern** for scalable and maintainable code:
 
