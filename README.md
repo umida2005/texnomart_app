@@ -23,7 +23,6 @@ This project was created for learning and portfolio purposes only, and is not af
 ## 📱 Features
 
 - 🛒 Product listing and detail views  
-- 🔐 Authentication flow with PIN support  
 - 📍 Store location with Google Map integration  
 - ❤️ Favorite (wishlist) management  
 - ⚙️ Profile and settings screen  
